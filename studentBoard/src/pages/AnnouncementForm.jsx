@@ -8,8 +8,6 @@ const AnnouncementForm = () => {
      console.log(data)
   }
 
-  
-
   return (
     <>
       <section className="bg-slate-200  h-screen p-5">
