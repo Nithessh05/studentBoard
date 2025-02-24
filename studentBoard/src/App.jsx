@@ -6,6 +6,7 @@ App = () => {
   return (
     <div className=''>
       <AnnouncementForm/>
+      {/* <Announcement/> */}
     </div>
   )
 }
